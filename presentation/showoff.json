@@ -1,0 +1,7 @@
+{ "name": "Building Talent the Old-fashioned Way",
+  "description": "Notes on Staq's Ruby Apprentice Program for a talk at the DC CTO Summit",
+  "author": "Mike Subelsky",
+  "sections": [
+    { "section":"one" }
+  ]
+}
