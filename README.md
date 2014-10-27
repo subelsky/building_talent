@@ -7,4 +7,4 @@ Uses [showoff](https://github.com/puppetlabs/showoff).
 
 Questions?
 ==========
-Email me: [mailto:mike@subelsky.com](mike@subelsky.com)
+Email me: [mike@subelsky.com](mailto:mike@subelsky.com)
