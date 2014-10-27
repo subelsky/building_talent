@@ -144,6 +144,7 @@
 * [I Hate Puzzles: Am I Still A Programmer?](http://zef.me/3666/i-hate-puzzles/)
 * [The Magic of Apprenticeship](http://fourhourworkweek.com/2012/11/12/the-magic-of-apprenticeship-a-how-to-guide/)
 * [apprentice.io](http://www.apprentice.io/)
+* [Ruby Apprentice Program](http://www.subelsky.com/2014/02/staqs-ruby-apprentice-program-was-great.html)
 * [Stiffed](https://www.goodreads.com/book/show/200884.Stiffed)
 
 <!SLIDE>
