@@ -3,85 +3,137 @@
 
 ## Mike Subelsky
 ## [mike@staq.com](mailto:mike@staq.com)
-## [subelsky.com](http://www.subelsky.com/) / [@subelsky](https://twitter.com/subelsky)
+## [subelsky.com](http://www.subelsky.com/)
+## @subelsky
 
 <!SLIDE transition=fade>
 
+# There are smart, hard-working
+# people in your city...
+
+<!SLIDE>
+
+# ...lacking traditional C.S. backgrounds...
+
+<!SLIDE>
+
+# ...who can excel in your company.
+
+<!SLIDE>
+
 # Background
 
-IMG OF STAQ LOGO
+![Staq Logo](logo.png)
 
 <!SLIDE>
 
-IMG OF OUR EXTRACTORS REPO
+# 100s of Standalone Extractor Projects
+
+![Example List of Projects](extractor_list.png)
 
 <!SLIDE>
 
-# The Experiment
-IMG OF MY BLOG POST W/ URL
+# Onshore vs. offshore?
 
 <!SLIDE>
 
-IMG OF GOOGLE DOCS APPLICATION
+# Initial Blog Post
+
+![RAP Blog Post](post.png)
 
 <!SLIDE>
 
-IMGS OF RAP
+# Google Docs Application
+
+![RAP Blog Post](application.png)
+
+100+ applications from all over the world
 
 <!SLIDE>
 
-IMGS OF JUMPSTART LABS CURRICULUM
+![RAP 1](rap_training_1.JPG)
+
+12 candidates selected
+
+<!SLIDE>
+
+![RAP 2](rap_training_2.JPG)
+
+4 two-hour evening sessions, recorded
+
+<!SLIDE>
+
+![RAP 1](ruby_100.png)
+
+[Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/)
 
 <!SLIDE>
 
 # The Result!
 
-IMGS OF FINAL TEAM SELECTED
-IMGS OF BLOG POST POST-MORTEM W/ URL
+![RAP Final Team](rap.png)
+
+<!SLIDE bullets incremental>
+
+# Cultural Side-Effects
+
+* Seeded our training culture (checklists)
+* Promoted documentation-driven development
+* Introduced new perspectives / backgrounds
 
 <!SLIDE bullets incremental>
 
 # What To Do Next Time
 
 * Engage professional trainers
-
-* Configure cloud-based VMs
-
-* Focus on language & framework, not actual work
-
-* Admin support
-
-<!SLIDE bullets incremental>
-
-# Cultural Side-Effects
+* Use pre-configured cloud-based VMs
+* Focus on language & framework vs. our tech
+* Focus on open-source work
+* Assign individual mentors
+* Provide admin support
 
 <!SLIDE bullets incremental>
 
-# Ideas for Scaling
+# How to get started
 
+* Make your systems modular, habitable
+* Identify maintenance tasks
+* Apply "moneyball" techniques in hiring
+* Start a beginner's meetup
+* Organize RailsGirls or equivalent event
+
+<!SLIDE bullets incremental>
+
+# How to get started
+
+* Don't send pizza to meetups; send trainers
 * Partner with software training schools
-* Apply "moneyball" techniques
-* Larger companies: repeat [Hungry Academy](http://www.hungryacademy.com/)
-* Smaller companies: combine efforts to increase talent pool
+* Big company: replicate [Hungry Academy](http://www.hungryacademy.com/)
+* Small company: cooperate on a joint Hungry Academy
 
 <!SLIDE bullets incremental>
 
-# How to Get Started
+# Implications for Diversity in Tech
 
-* Onshore vs. offshore
-* Maintenance
-* Modularity
+* Not everyone learns programming the same way
+* Mentorship, apprenticeship &hArr; more diverse candidate pool
+* Education system can't/shouldn't solve this problem
 
-<!SLIDE bullets incremental>
+<!SLIDE center>
 
-# Implications for Diversity
+# We used to do a good job at this
 
-* Adopt apprenticeship/mentoring model
-* Apply "moneyball" techniques
-  * Value evidence vs. credentials
-* You are the solution, not academia
+![Stiffed](stiffed.jpg)
 
-<!SLIDE bullets>
+<!SLIDE>
+
+# Don't bemoan the size of your local talent pool...
+
+<!SLIDE>
+
+# ..start growing it!
+
+<!SLIDE small>
 
 # Reading List
 
@@ -92,9 +144,12 @@ IMGS OF BLOG POST POST-MORTEM W/ URL
 * [I Hate Puzzles: Am I Still A Programmer?](http://zef.me/3666/i-hate-puzzles/)
 * [The Magic of Apprenticeship](http://fourhourworkweek.com/2012/11/12/the-magic-of-apprenticeship-a-how-to-guide/)
 * [apprentice.io](http://www.apprentice.io/)
+* [Stiffed](https://www.goodreads.com/book/show/200884.Stiffed)
 
-<!SLIDE bullets>
+<!SLIDE>
 
 # Questions?
+
 ## [mike@staq.com](mailto:mike@staq.com)
+## [https://github.com/subelsky/building_talent](https://github.com/subelsky/building_talent)
 ## [https://tinyletter.com/subelsky](https://tinyletter.com/subelsky)
